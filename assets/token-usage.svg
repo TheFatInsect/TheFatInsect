@@ -44,6 +44,6 @@
   <rect x="530" y="169" width="64" height="7" rx="3.5" class="bar"/>
   <rect x="530" y="198" width="242" height="7" rx="3.5" class="track"/>
   <rect x="530" y="198" width="42" height="7" rx="3.5" class="bar"/>
-  <text x="258" y="226" text-anchor="middle" class="muted">Daily usage - configure TOKEN_STATS_ENDPOINT</text>
+  <text x="258" y="226" text-anchor="middle" class="muted">Daily usage - connect Token Monitor</text>
   <text x="651" y="226" text-anchor="middle" class="muted">Top models - configure TOKEN_HUB_MONITOR</text>
 </svg>

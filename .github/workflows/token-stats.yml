@@ -22,12 +22,12 @@ jobs:
       - name: Fetch token statistics
         id: stats
         env:
-          TOKEN_STATS_ENDPOINT: ${{ secrets.TOKEN_STATS_ENDPOINT }}
           TOKEN_HUB_MONITOR: ${{ secrets.TOKEN_HUB_MONITOR }}
         run: |
-          if [ -z "$TOKEN_STATS_ENDPOINT" ] || [ -z "$TOKEN_HUB_MONITOR" ]; then
+          TOKEN_STATS_ENDPOINT="https://token-monitor-hub.thefatinsect.workers.dev/api/stats"
+          if [ -z "$TOKEN_HUB_MONITOR" ]; then
             echo "enabled=false" >> "$GITHUB_OUTPUT"
-            echo "Set TOKEN_STATS_ENDPOINT and TOKEN_HUB_MONITOR to enable token usage card updates."
+            echo "Set TOKEN_HUB_MONITOR to enable token usage card updates."
             exit 0
           fi
           curl --fail-with-body --silent --show-error \

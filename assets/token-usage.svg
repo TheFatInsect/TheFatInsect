@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 30 800 210" role="img" aria-labelledby="title desc">
   <title id="title">Token usage</title>
-  <desc id="desc">Token usage card placeholder. Configure repository secrets to enable automatic updates.</desc>
+  <desc id="desc">Waiting for Token Monitor data</desc>
   <style>
     text { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
     .title { fill: #00000f; font-size: 13px; font-weight: 500; }
@@ -10,7 +10,7 @@
     .track { fill: #efefef; }
   </style>
   <rect width="800" height="240" fill="#ffffff"/>
-  <text x="400" y="46" text-anchor="middle" class="title">Token usage card pending setup</text>
+  <text x="400" y="46" text-anchor="middle" class="title">Waiting for Token Monitor data</text>
   <rect x="34" y="170" width="10" height="34" rx="5" class="bar"/>
   <rect x="54" y="138" width="10" height="66" rx="5" class="bar"/>
   <rect x="74" y="156" width="10" height="48" rx="5" class="bar"/>
@@ -45,5 +45,5 @@
   <rect x="530" y="198" width="242" height="7" rx="3.5" class="track"/>
   <rect x="530" y="198" width="42" height="7" rx="3.5" class="bar"/>
   <text x="258" y="226" text-anchor="middle" class="muted">Daily usage - connect Token Monitor</text>
-  <text x="651" y="226" text-anchor="middle" class="muted">Top models - configure TOKEN_HUB_MONITOR</text>
+  <text x="651" y="226" text-anchor="middle" class="muted">Top models - waiting for data</text>
 </svg>

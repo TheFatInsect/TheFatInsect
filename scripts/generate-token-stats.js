@@ -130,10 +130,23 @@ const daily = dailySource
   }))
   .sort((left, right) => left.date.localeCompare(right.date));
 
+const todayKey = valueAt(payload, ["devices", 0, "periodWindows", "today", "key"]);
+const todayTokens = Number(valueAt(payload, ["periods", "today", "totalTokens"]));
+if (todayKey && Number.isFinite(todayTokens) && todayTokens > 0) {
+  const todayEntry = daily.find((entry) => entry.date === todayKey);
+  if (todayEntry) {
+    todayEntry.tokens = Math.max(todayEntry.tokens, todayTokens);
+  } else {
+    daily.push({ date: String(todayKey), tokens: todayTokens });
+  }
+  daily.sort((left, right) => left.date.localeCompare(right.date));
+  if (daily.length > 30) daily.splice(0, daily.length - 30);
+}
+
 const summaryTotal = valueAt(payload, ["historyPreview", "summary", "totalTokens"]);
 const allTimeTotal = valueAt(payload, ["periods", "allTime", "totalTokens"]);
 const totalTokens = readNumber(
-  summaryTotal === undefined || summaryTotal === null ? allTimeTotal : summaryTotal,
+  allTimeTotal === undefined || allTimeTotal === null ? summaryTotal : allTimeTotal,
   "all-time token total",
 );
 

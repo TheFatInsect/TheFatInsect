@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 30 800 210" role="img" aria-labelledby="title desc">
   <title id="title">Token usage</title>
-  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 1,830,303,768 tokens used as of August 08, 2026.</desc>
+  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 1,878,687,406 tokens used as of August 08, 2026.</desc>
   <style>
     text { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
     .total { fill: #00000f; font-size: 13px; font-weight: 500; }
@@ -14,7 +14,7 @@
     .model-bar { fill: #47a042; }
   </style>
   <rect width="800" height="240" fill="#ffffff"/>
-  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 1,830,303,768 as of August 08, 2026</text>
+  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 1,878,687,406 as of August 08, 2026</text>
   <rect x="30.8" y="100.8" width="9.8" height="103.2" rx="4.9" class="daily-bar"><title>2026-06-19: 73,386,739 tokens</title></rect>
   <rect x="46.1" y="126.9" width="9.8" height="77.1" rx="4.9" class="daily-bar"><title>2026-06-20: 54,786,566 tokens</title></rect>
   <rect x="61.4" y="195.4" width="9.8" height="8.6" rx="4.9" class="daily-bar"><title>2026-06-21: 6,101,519 tokens</title></rect>
@@ -44,20 +44,20 @@
   <rect x="429.4" y="154.9" width="9.8" height="49.1" rx="4.9" class="daily-bar"><title>2026-07-29: 34,936,926 tokens</title></rect>
   <rect x="444.8" y="159.4" width="9.8" height="44.6" rx="4.9" class="daily-bar"><title>2026-07-30: 31,737,128 tokens</title></rect>
   <rect x="460.1" y="82.0" width="9.8" height="122.0" rx="4.9" class="daily-bar peak"><title>2026-08-07: 86,747,787 tokens</title></rect>
-  <rect x="475.4" y="196.9" width="9.8" height="7.1" rx="4.9" class="daily-bar"><title>2026-08-08: 5,078,004 tokens</title></rect>
+  <rect x="475.4" y="129.1" width="9.8" height="74.9" rx="4.9" class="daily-bar"><title>2026-08-08: 53,282,752 tokens</title></rect>
   <text x="465.0" y="75" text-anchor="middle" class="peak-value">86,747,787</text>
   <text x="530" y="75" class="model-name">gpt-5.5</text>
   <text x="772" y="75" text-anchor="end" class="model-value">1.8B</text>
   <rect x="530" y="81" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="81" width="242.0" height="7" rx="3.5" class="model-bar"><title>gpt-5.5: 1,770,965,147 tokens</title></rect>
-  <text x="530" y="104" class="model-name">codex-auto-review</text>
-  <text x="772" y="104" text-anchor="end" class="model-value">26.8M</text>
+  <rect x="530" y="81" width="242.0" height="7" rx="3.5" class="model-bar"><title>gpt-5.5: 1,772,776,842 tokens</title></rect>
+  <text x="530" y="104" class="model-name">gpt-5.6-sol</text>
+  <text x="772" y="104" text-anchor="end" class="model-value">63.5M</text>
   <rect x="530" y="110" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="110" width="4.0" height="7" rx="3.5" class="model-bar"><title>codex-auto-review: 26,756,909 tokens</title></rect>
-  <text x="530" y="133" class="model-name">gpt-5.6-sol</text>
-  <text x="772" y="133" text-anchor="end" class="model-value">17.2M</text>
+  <rect x="530" y="110" width="8.7" height="7" rx="3.5" class="model-bar"><title>gpt-5.6-sol: 63,528,967 tokens</title></rect>
+  <text x="530" y="133" class="model-name">codex-auto-review</text>
+  <text x="772" y="133" text-anchor="end" class="model-value">27M</text>
   <rect x="530" y="139" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="139" width="4.0" height="7" rx="3.5" class="model-bar"><title>gpt-5.6-sol: 17,161,673 tokens</title></rect>
+  <rect x="530" y="139" width="4.0" height="7" rx="3.5" class="model-bar"><title>codex-auto-review: 26,961,558 tokens</title></rect>
   <text x="530" y="162" class="model-name">claude-opus-4-6</text>
   <text x="772" y="162" text-anchor="end" class="model-value">11.7M</text>
   <rect x="530" y="168" width="242" height="7" rx="3.5" class="model-track"/>

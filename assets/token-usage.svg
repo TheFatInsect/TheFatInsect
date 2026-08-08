@@ -49,11 +49,11 @@
   <text x="530" y="75" class="model-name">gpt-5.5</text>
   <text x="772" y="75" text-anchor="end" class="model-value">1.8B</text>
   <rect x="530" y="81" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="81" width="242.0" height="7" rx="3.5" class="model-bar"><title>gpt-5.5: 1,768,088,808 tokens</title></rect>
+  <rect x="530" y="81" width="242.0" height="7" rx="3.5" class="model-bar"><title>gpt-5.5: 1,770,029,725 tokens</title></rect>
   <text x="530" y="104" class="model-name">codex-auto-review</text>
-  <text x="772" y="104" text-anchor="end" class="model-value">26.5M</text>
+  <text x="772" y="104" text-anchor="end" class="model-value">26.7M</text>
   <rect x="530" y="110" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="110" width="4.0" height="7" rx="3.5" class="model-bar"><title>codex-auto-review: 26,507,642 tokens</title></rect>
+  <rect x="530" y="110" width="4.0" height="7" rx="3.5" class="model-bar"><title>codex-auto-review: 26,668,112 tokens</title></rect>
   <text x="530" y="133" class="model-name">gpt-5.6-sol</text>
   <text x="772" y="133" text-anchor="end" class="model-value">17.2M</text>
   <rect x="530" y="139" width="242" height="7" rx="3.5" class="model-track"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 30 800 210" role="img" aria-labelledby="title desc">
   <title id="title">Token usage</title>
-  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 6,674,514,388 tokens used as of August 21, 2026.</desc>
+  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 6,674,514,388 tokens used as of August 22, 2026.</desc>
   <style>
     text { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
     .total { fill: #00000f; font-size: 13px; font-weight: 500; }
@@ -14,7 +14,7 @@
     .model-bar { fill: #47a042; }
   </style>
   <rect width="800" height="240" fill="#ffffff"/>
-  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 6,674,514,388 as of August 21, 2026</text>
+  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 6,674,514,388 as of August 22, 2026</text>
   <rect x="30.8" y="200.3" width="9.8" height="3.7" rx="4.9" class="daily-bar"><title>2026-07-08: 38,518,916 tokens</title></rect>
   <rect x="46.1" y="199.9" width="9.8" height="4.1" rx="4.9" class="daily-bar"><title>2026-07-09: 42,263,174 tokens</title></rect>
   <rect x="61.4" y="198.0" width="9.8" height="6.0" rx="4.9" class="daily-bar"><title>2026-07-10: 61,733,846 tokens</title></rect>

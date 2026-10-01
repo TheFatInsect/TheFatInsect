@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 30 800 210" role="img" aria-labelledby="title desc">
   <title id="title">Token usage</title>
-  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 14,045,739,861 tokens used as of October 01, 2026.</desc>
+  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 14,078,935,527 tokens used as of October 01, 2026.</desc>
   <style>
     text { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
     .total { fill: #00000f; font-size: 13px; font-weight: 500; }
@@ -14,7 +14,7 @@
     .model-bar { fill: #47a042; }
   </style>
   <rect width="800" height="240" fill="#ffffff"/>
-  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 14,045,739,861 as of October 01, 2026</text>
+  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 14,078,935,527 as of October 01, 2026</text>
   <rect x="30.8" y="194.4" width="9.8" height="9.6" rx="4.9" class="daily-bar"><title>2026-08-31: 69,378,908 tokens</title></rect>
   <rect x="46.1" y="160.2" width="9.8" height="43.8" rx="4.9" class="daily-bar"><title>2026-09-01: 315,250,134 tokens</title></rect>
   <rect x="61.4" y="168.0" width="9.8" height="36.0" rx="4.9" class="daily-bar"><title>2026-09-02: 259,094,535 tokens</title></rect>
@@ -44,7 +44,7 @@
   <rect x="429.4" y="201.9" width="9.8" height="2.1" rx="4.9" class="daily-bar"><title>2026-09-26: 15,218,891 tokens</title></rect>
   <rect x="444.8" y="202.0" width="9.8" height="2.0" rx="4.9" class="daily-bar"><title>2026-09-28: 4,434,950 tokens</title></rect>
   <rect x="460.1" y="189.8" width="9.8" height="14.2" rx="4.9" class="daily-bar"><title>2026-09-30: 102,011,658 tokens</title></rect>
-  <rect x="475.4" y="197.3" width="9.8" height="6.7" rx="4.9" class="daily-bar"><title>2026-10-01: 48,111,590 tokens</title></rect>
+  <rect x="475.4" y="192.7" width="9.8" height="11.3" rx="4.9" class="daily-bar"><title>2026-10-01: 81,307,256 tokens</title></rect>
   <text x="97.0" y="75" text-anchor="middle" class="peak-value">877,612,461</text>
   <text x="530" y="75" class="model-name">gpt-5.6-sol</text>
   <text x="772" y="75" text-anchor="end" class="model-value">10.9B</text>
@@ -57,7 +57,7 @@
   <text x="530" y="133" class="model-name">gpt-6-astra</text>
   <text x="772" y="133" text-anchor="end" class="model-value">1.3B</text>
   <rect x="530" y="139" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="139" width="28.6" height="7" rx="3.5" class="model-bar"><title>gpt-6-astra: 1,286,476,122 tokens</title></rect>
+  <rect x="530" y="139" width="29.3" height="7" rx="3.5" class="model-bar"><title>gpt-6-astra: 1,319,671,788 tokens</title></rect>
   <text x="530" y="162" class="model-name">codex-auto-review</text>
   <text x="772" y="162" text-anchor="end" class="model-value">41M</text>
   <rect x="530" y="168" width="242" height="7" rx="3.5" class="model-track"/>

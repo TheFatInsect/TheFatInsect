@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 30 800 210" role="img" aria-labelledby="title desc">
   <title id="title">Token usage</title>
-  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 14,374,641,300 tokens used as of October 08, 2026.</desc>
+  <desc id="desc">Daily token usage for the most recent 30 active days and the five most-used models of all time, with 14,413,380,004 tokens used as of October 08, 2026.</desc>
   <style>
     text { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
     .total { fill: #00000f; font-size: 13px; font-weight: 500; }
@@ -14,38 +14,38 @@
     .model-bar { fill: #47a042; }
   </style>
   <rect width="800" height="240" fill="#ffffff"/>
-  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 14,374,641,300 as of October 08, 2026</text>
-  <rect x="30.8" y="82.0" width="9.8" height="122.0" rx="4.9" class="daily-bar peak"><title>2026-09-06: 285,917,786 tokens</title></rect>
-  <rect x="46.1" y="183.0" width="9.8" height="21.0" rx="4.9" class="daily-bar"><title>2026-09-07: 49,221,627 tokens</title></rect>
-  <rect x="61.4" y="167.4" width="9.8" height="36.6" rx="4.9" class="daily-bar"><title>2026-09-08: 85,758,635 tokens</title></rect>
-  <rect x="76.8" y="179.4" width="9.8" height="24.6" rx="4.9" class="daily-bar"><title>2026-09-09: 57,760,572 tokens</title></rect>
-  <rect x="92.1" y="151.4" width="9.8" height="52.6" rx="4.9" class="daily-bar"><title>2026-09-10: 123,301,708 tokens</title></rect>
-  <rect x="107.4" y="152.9" width="9.8" height="51.1" rx="4.9" class="daily-bar"><title>2026-09-11: 119,700,132 tokens</title></rect>
-  <rect x="122.8" y="158.1" width="9.8" height="45.9" rx="4.9" class="daily-bar"><title>2026-09-12: 107,683,961 tokens</title></rect>
-  <rect x="138.1" y="152.3" width="9.8" height="51.7" rx="4.9" class="daily-bar"><title>2026-09-13: 121,121,020 tokens</title></rect>
-  <rect x="153.4" y="121.0" width="9.8" height="83.0" rx="4.9" class="daily-bar"><title>2026-09-14: 194,436,620 tokens</title></rect>
-  <rect x="168.8" y="194.9" width="9.8" height="9.1" rx="4.9" class="daily-bar"><title>2026-09-15: 21,384,729 tokens</title></rect>
-  <rect x="184.1" y="194.8" width="9.8" height="9.2" rx="4.9" class="daily-bar"><title>2026-09-16: 21,626,961 tokens</title></rect>
-  <rect x="199.4" y="202.0" width="9.8" height="2.0" rx="4.9" class="daily-bar"><title>2026-09-17: 3,945,275 tokens</title></rect>
-  <rect x="214.8" y="190.4" width="9.8" height="13.6" rx="4.9" class="daily-bar"><title>2026-09-18: 31,759,016 tokens</title></rect>
-  <rect x="230.1" y="182.6" width="9.8" height="21.4" rx="4.9" class="daily-bar"><title>2026-09-19: 50,181,999 tokens</title></rect>
-  <rect x="245.4" y="166.3" width="9.8" height="37.7" rx="4.9" class="daily-bar"><title>2026-09-20: 88,353,896 tokens</title></rect>
-  <rect x="260.8" y="182.5" width="9.8" height="21.5" rx="4.9" class="daily-bar"><title>2026-09-21: 50,451,458 tokens</title></rect>
-  <rect x="276.1" y="194.8" width="9.8" height="9.2" rx="4.9" class="daily-bar"><title>2026-09-22: 21,533,162 tokens</title></rect>
-  <rect x="291.4" y="195.5" width="9.8" height="8.5" rx="4.9" class="daily-bar"><title>2026-09-23: 19,819,279 tokens</title></rect>
-  <rect x="306.8" y="179.0" width="9.8" height="25.0" rx="4.9" class="daily-bar"><title>2026-09-24: 58,635,525 tokens</title></rect>
-  <rect x="322.1" y="177.4" width="9.8" height="26.6" rx="4.9" class="daily-bar"><title>2026-09-25: 62,264,789 tokens</title></rect>
-  <rect x="337.4" y="197.5" width="9.8" height="6.5" rx="4.9" class="daily-bar"><title>2026-09-26: 15,218,891 tokens</title></rect>
-  <rect x="352.8" y="202.0" width="9.8" height="2.0" rx="4.9" class="daily-bar"><title>2026-09-28: 4,434,950 tokens</title></rect>
-  <rect x="368.1" y="160.5" width="9.8" height="43.5" rx="4.9" class="daily-bar"><title>2026-09-30: 102,011,658 tokens</title></rect>
-  <rect x="383.4" y="169.3" width="9.8" height="34.7" rx="4.9" class="daily-bar"><title>2026-10-01: 81,307,256 tokens</title></rect>
-  <rect x="398.8" y="187.7" width="9.8" height="16.3" rx="4.9" class="daily-bar"><title>2026-10-02: 38,143,278 tokens</title></rect>
-  <rect x="414.1" y="179.9" width="9.8" height="24.1" rx="4.9" class="daily-bar"><title>2026-10-03: 56,480,700 tokens</title></rect>
-  <rect x="429.4" y="193.0" width="9.8" height="11.0" rx="4.9" class="daily-bar"><title>2026-10-04: 25,838,952 tokens</title></rect>
-  <rect x="444.8" y="202.0" width="9.8" height="2.0" rx="4.9" class="daily-bar"><title>2026-10-05: 1,676,708 tokens</title></rect>
-  <rect x="460.1" y="199.5" width="9.8" height="4.5" rx="4.9" class="daily-bar"><title>2026-10-07: 10,478,914 tokens</title></rect>
-  <rect x="475.4" y="113.6" width="9.8" height="90.4" rx="4.9" class="daily-bar"><title>2026-10-08: 211,941,753 tokens</title></rect>
-  <text x="35.7" y="75" text-anchor="middle" class="peak-value">285,917,786</text>
+  <text x="400" y="46" text-anchor="middle" class="total">All-time token usage: 14,413,380,004 as of October 08, 2026</text>
+  <rect x="30.8" y="175.7" width="9.8" height="28.3" rx="4.9" class="daily-bar"><title>2026-09-07: 49,221,627 tokens</title></rect>
+  <rect x="46.1" y="154.6" width="9.8" height="49.4" rx="4.9" class="daily-bar"><title>2026-09-08: 85,758,635 tokens</title></rect>
+  <rect x="61.4" y="170.8" width="9.8" height="33.2" rx="4.9" class="daily-bar"><title>2026-09-09: 57,760,572 tokens</title></rect>
+  <rect x="76.8" y="133.0" width="9.8" height="71.0" rx="4.9" class="daily-bar"><title>2026-09-10: 123,301,708 tokens</title></rect>
+  <rect x="92.1" y="135.1" width="9.8" height="68.9" rx="4.9" class="daily-bar"><title>2026-09-11: 119,700,132 tokens</title></rect>
+  <rect x="107.4" y="142.0" width="9.8" height="62.0" rx="4.9" class="daily-bar"><title>2026-09-12: 107,683,961 tokens</title></rect>
+  <rect x="122.8" y="134.3" width="9.8" height="69.7" rx="4.9" class="daily-bar"><title>2026-09-13: 121,121,020 tokens</title></rect>
+  <rect x="138.1" y="92.1" width="9.8" height="111.9" rx="4.9" class="daily-bar"><title>2026-09-14: 194,436,620 tokens</title></rect>
+  <rect x="153.4" y="191.7" width="9.8" height="12.3" rx="4.9" class="daily-bar"><title>2026-09-15: 21,384,729 tokens</title></rect>
+  <rect x="168.8" y="191.6" width="9.8" height="12.4" rx="4.9" class="daily-bar"><title>2026-09-16: 21,626,961 tokens</title></rect>
+  <rect x="184.1" y="201.7" width="9.8" height="2.3" rx="4.9" class="daily-bar"><title>2026-09-17: 3,945,275 tokens</title></rect>
+  <rect x="199.4" y="185.7" width="9.8" height="18.3" rx="4.9" class="daily-bar"><title>2026-09-18: 31,759,016 tokens</title></rect>
+  <rect x="214.8" y="175.1" width="9.8" height="28.9" rx="4.9" class="daily-bar"><title>2026-09-19: 50,181,999 tokens</title></rect>
+  <rect x="230.1" y="153.1" width="9.8" height="50.9" rx="4.9" class="daily-bar"><title>2026-09-20: 88,353,896 tokens</title></rect>
+  <rect x="245.4" y="175.0" width="9.8" height="29.0" rx="4.9" class="daily-bar"><title>2026-09-21: 50,451,458 tokens</title></rect>
+  <rect x="260.8" y="191.6" width="9.8" height="12.4" rx="4.9" class="daily-bar"><title>2026-09-22: 21,533,162 tokens</title></rect>
+  <rect x="276.1" y="192.6" width="9.8" height="11.4" rx="4.9" class="daily-bar"><title>2026-09-23: 19,819,279 tokens</title></rect>
+  <rect x="291.4" y="170.2" width="9.8" height="33.8" rx="4.9" class="daily-bar"><title>2026-09-24: 58,635,525 tokens</title></rect>
+  <rect x="306.8" y="168.2" width="9.8" height="35.8" rx="4.9" class="daily-bar"><title>2026-09-25: 62,264,789 tokens</title></rect>
+  <rect x="322.1" y="195.2" width="9.8" height="8.8" rx="4.9" class="daily-bar"><title>2026-09-26: 15,218,891 tokens</title></rect>
+  <rect x="337.4" y="201.4" width="9.8" height="2.6" rx="4.9" class="daily-bar"><title>2026-09-28: 4,434,950 tokens</title></rect>
+  <rect x="352.8" y="145.3" width="9.8" height="58.7" rx="4.9" class="daily-bar"><title>2026-09-30: 102,011,658 tokens</title></rect>
+  <rect x="368.1" y="157.2" width="9.8" height="46.8" rx="4.9" class="daily-bar"><title>2026-10-01: 81,307,256 tokens</title></rect>
+  <rect x="383.4" y="182.0" width="9.8" height="22.0" rx="4.9" class="daily-bar"><title>2026-10-02: 38,143,278 tokens</title></rect>
+  <rect x="398.8" y="171.5" width="9.8" height="32.5" rx="4.9" class="daily-bar"><title>2026-10-03: 56,480,700 tokens</title></rect>
+  <rect x="414.1" y="189.1" width="9.8" height="14.9" rx="4.9" class="daily-bar"><title>2026-10-04: 25,838,952 tokens</title></rect>
+  <rect x="429.4" y="202.0" width="9.8" height="2.0" rx="4.9" class="daily-bar"><title>2026-10-05: 1,676,708 tokens</title></rect>
+  <rect x="444.8" y="198.0" width="9.8" height="6.0" rx="4.9" class="daily-bar"><title>2026-10-07: 10,478,914 tokens</title></rect>
+  <rect x="460.1" y="82.0" width="9.8" height="122.0" rx="4.9" class="daily-bar peak"><title>2026-10-08: 211,941,753 tokens</title></rect>
+  <rect x="475.4" y="181.7" width="9.8" height="22.3" rx="4.9" class="daily-bar"><title>2026-10-09: 38,738,704 tokens</title></rect>
+  <text x="465.0" y="75" text-anchor="middle" class="peak-value">211,941,753</text>
   <text x="530" y="75" class="model-name">gpt-5.6-sol</text>
   <text x="772" y="75" text-anchor="end" class="model-value">10.9B</text>
   <rect x="530" y="81" width="242" height="7" rx="3.5" class="model-track"/>
@@ -55,9 +55,9 @@
   <rect x="530" y="110" width="242" height="7" rx="3.5" class="model-track"/>
   <rect x="530" y="110" width="39.3" height="7" rx="3.5" class="model-bar"><title>gpt-5.5: 1,769,000,346 tokens</title></rect>
   <text x="530" y="133" class="model-name">gpt-6-astra</text>
-  <text x="772" y="133" text-anchor="end" class="model-value">1.6B</text>
+  <text x="772" y="133" text-anchor="end" class="model-value">1.7B</text>
   <rect x="530" y="139" width="242" height="7" rx="3.5" class="model-track"/>
-  <rect x="530" y="139" width="35.9" height="7" rx="3.5" class="model-bar"><title>gpt-6-astra: 1,615,377,561 tokens</title></rect>
+  <rect x="530" y="139" width="36.7" height="7" rx="3.5" class="model-bar"><title>gpt-6-astra: 1,654,116,265 tokens</title></rect>
   <text x="530" y="162" class="model-name">codex-auto-review</text>
   <text x="772" y="162" text-anchor="end" class="model-value">41M</text>
   <rect x="530" y="168" width="242" height="7" rx="3.5" class="model-track"/>
